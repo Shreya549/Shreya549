@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello World, I'm Shreya :purple_heart:
+<img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 200/>
+
+-----
+
+
 
 <!--
 **Shreya549/Shreya549** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
