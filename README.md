@@ -6,8 +6,22 @@
 
 ### My skills :woman_technologist:
 - **Competitive Coding**
-  - Python <code><a href="https://www.python.org/" target="_blank"><img height="20" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></a></code>
-  - Java <code><a href="https://www.python.org/" target="_blank"><img height="20" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></a></code>
+<table>
+<tbody>
+ <tr>
+<td align="center" width="50%">
+<span><b><center>Python</center></b></span> 
+<img height=60px src="https://www.vectorlogo.zone/logos/python/python-icon.svg"> 
+</td>
+
+<td align="center" width="50%">
+<span><b><center>Java</center></b></span> 
+<img height=60px src="https://www.vectorlogo.zone/logos/java/java-icon.svg"> 
+</td>
+</tr>
+</tbody>
+</table>
+
 - **Web Development**
   - Python
   - JavaScript
