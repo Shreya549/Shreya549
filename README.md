@@ -4,11 +4,14 @@
 -----
 #### I am an individual with a keen eye for details, seeking to advance my growing tech career as a Software Developer and bringing my trouble shooting skills to engineer responsive solutions along with like-minded peers.
 
-<a href="https://github.com/Shreya549">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya549&theme=radical" />
-</a>
-<br> <br>
+<br>
 
+### My skills :woman_technologist:
+- **Competitive Coding**
+  - Python <code><a href="https://www.python.org/" target="_blank"><img height="20" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></a></code>
+  - Java <code><a href="https://www.python.org/" target="_blank"><img height="20" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></a></code>
+
+<br> <br>
  <a href="https://twitter.com/shreyaaaaaaaaa_">
   <img align="left" alt="Shreya's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -29,11 +32,17 @@
 </a>
 <br><br>
 
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FShreya549%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+
 
 <br>
 <br>
 
 <!--
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya549&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shreya549&&show_icons=true&theme=radical" alt="My Github Stats">
+</p>
 <a href="https://github.com/Shreya549">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya549&theme=radical" />
 </a>
