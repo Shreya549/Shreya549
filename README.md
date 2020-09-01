@@ -10,13 +10,11 @@
 <tbody>
  <tr>
 <td align="center" width="50%">
-<span><b><center>Python</center></b></span> 
-<img height=60px src="https://www.vectorlogo.zone/logos/python/python-icon.svg"> 
+<img height=60px src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> 
 </td>
 
 <td align="center" width="50%">
-<span><b><center>Java</center></b></span> 
-<img height=60px src="https://www.vectorlogo.zone/logos/java/java-icon.svg"> 
+<img height=60px src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> 
 </td>
 </tr>
 </tbody>
@@ -63,10 +61,21 @@
 - **Data Science**
   - Data Visualization
    - Data Analysis
-      - Python
-      - R
+      <table>
+<tbody>
+ <tr>
+<td align="center" width="50%">
+<img height=60px src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> 
+</td>
+
+<td align="center" width="50%">
+<img height=60px src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"> 
+</td>
+</tr>
+</tbody>
+</table>
   
- ### I'm currently learning :open_book:
+### I'm currently learning :open_book:
  - **Competitive Coding**
     - Dynamic Programming
     
