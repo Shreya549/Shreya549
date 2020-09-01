@@ -73,18 +73,28 @@
 </tr>
 </tbody>
 </table>
-<br>
 
 ### I'm currently learning :open_book:
- - **Competitive Coding**
+- **Competitive Coding**
     - Dynamic Programming
     
- - **Web Development**
-    - ReactJS
-  
+- **Web Development**
+<table>
+<tbody>
+ <tr>
+<td align="center" width="50%">
+<img height=60px src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"> 
+</td>
+<td align="center" width="50%">
+<img height=60px src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> 
+</td>
+</tr>
+</tbody>
+</table>
+
  - **Data Science**
-    - Machine Learning
-    - Artificial Intelligence
+   - Machine Learning
+   - Artificial Intelligence
     
 <br>
 <p align="center">
@@ -121,6 +131,19 @@
 <br>
 
 <!--
+<table>
+<tbody>
+ <tr>
+<td align="center" width="50%">
+<img height=60px src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"> 
+</td>
+<td align="center" width="50%">
+<img height=60px src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> 
+</td>
+</tr>
+</tbody>
+</table>
+<br>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya549&theme=radical" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shreya549&&show_icons=true&theme=radical" alt="My Github Stats">
