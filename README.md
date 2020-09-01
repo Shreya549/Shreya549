@@ -57,11 +57,10 @@
 </tbody>
 </table>
 
-
 - **Data Science**
   - Data Visualization
-   - Data Analysis
-      <table>
+  - Data Analysis
+ <table>
 <tbody>
  <tr>
 <td align="center" width="50%">
@@ -74,7 +73,8 @@
 </tr>
 </tbody>
 </table>
-  
+<br>
+
 ### I'm currently learning :open_book:
  - **Competitive Coding**
     - Dynamic Programming
